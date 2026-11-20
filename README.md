@@ -6,8 +6,8 @@
 - 踩雷结束，翻开全部安全格获胜
 
 ## 运行
-gcc saolei.c -o saolei
-./saolei
+gcc mine_clearance.c -o mine_clearance
+./mine_clearance
 
 ## 操作
 输入两个 0~8 的数字，空格分隔，例如 `2 3`
